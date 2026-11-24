@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.env*
+!.env.example
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+
+# Local-only source material (unprocessed screenshots, third-party design references)
+/raw
+/references
+.vercel
+.claude
